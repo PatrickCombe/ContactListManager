@@ -1,6 +1,6 @@
-# My First React App: Todo App
+# Contact List Manager
 
-This is a simple interactive phone call scheduler app. It uses React for the frontend and Node.js + MongoDB on the backend.
+This is a simple interactive phone call scheduler app. It utilizes React for the frontend and Node.js + MongoDB on the backend.
 
 ## Screenshots
 
